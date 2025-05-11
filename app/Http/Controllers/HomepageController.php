@@ -63,4 +63,8 @@ class HomepageController extends Controller
             'title'=>'Checkout'
         ]);
     }
+
+  
+
+   
 }
